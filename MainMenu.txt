@@ -1,0 +1,13 @@
+Load the image
+Save copy of image
+Save processed image 
+Rotate the image
+Translate the image
+Scale the image
+Transform the image
+Flip the image 
+Quantize the image
+Apply mean filter
+Apply median filter
+Compute derivative
+Apply Filter
